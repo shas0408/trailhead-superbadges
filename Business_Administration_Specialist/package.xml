@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    
+     <types>
+        <members>Bilingual_Pilot</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>ResidentialReports</members>
+        <members>ResidentialReports/Open_Support_Cases_sh9</members>
+        <members>ResidentialReports/Rated_Accounts_by_State_Hqp</members>
+        <members>ResidentialReports/High_Value_Residential_6KU</members>
+        <members>ResidentialReports/Accounts_by_Market_qby</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>ResidentialDashboards</members>
+        <members>ResidentialDashboards/ynykmzowRmQSAmRqFfmsYAQyVKfFFn</members>
+        <members>ResidentialDashboards/ynykmzowRmQSAmRqFfmsYAQyVKfFFn1</members>
+        <name>Dashboard</name>
+    </types>
+    <types>
+        <members>Residential_Sales_Letterhead</members>
+        <name>Letterhead</name>
+    </types>
+    <types>
+        <members>Residential_Sales_Emails/Residential_Sales_Welcome_Email</members>
+        <members>Residential_Sales_Emails/Residential_Sales_Correspondence</members>
+        <name>EmailTemplate</name>
+    </types>
+    <types>
+        <members>Opportunity.Residential Opportunities</members>
+        <name>BusinessProcess</name>
+    </types>
+    <types>
+        <members>Opportunity-Residential Opportunity Page</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Opportunity.Residential_Opportunity_Compact_View</members>
+        <name>CompactLayout</name>
+    </types>
+    <types>
+        <members>Opportunity.Residential_Opportunity</members>
+        <name>RecordType</name>
+    </types>
+    <version>48.0</version>
+</Package>
